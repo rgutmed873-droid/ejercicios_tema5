@@ -21,6 +21,6 @@ public class ejercicio3_altos_tema5 {
                 double hipotenusa = (Math.pow(num1,2) + Math.pow(num2,2));
                 System.out.println("La longitud de la hipotenusa es" + " " + hipotenusa);
         }
-
+        System.out.println("Prueba jajaja");
     }
 }
